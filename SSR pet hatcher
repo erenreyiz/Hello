@@ -159,7 +159,7 @@ local function rgbToHex(rgb)
                         ["Description"] = HatchText
                     }
                     ["thumbnail"] = {
-                        ["url"] = WebhookImage
+                        ["url"] = PetImage
                     },
                     ["footer"] = {
                         ["text"] = username .. "'s Egg Count: " .. abb(count),
